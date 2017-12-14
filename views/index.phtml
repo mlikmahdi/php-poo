@@ -1,0 +1,14 @@
+<!Doctype html>
+<html>
+    <head>
+    </head>
+    <body>
+        <ul>
+            <?php foreach ($lecturers->getLecturers() as $lecturer): /** @var $lecturer Application\Lecturer */ ?>
+                <li>
+                    <?= $lecturer->getNom() ?> <?= $lecturer->getPrenom() ?>
+                </li>
+            <?php endforeach; ?>
+        </ul>
+    </body>
+</html>

@@ -1,0 +1,817 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="dd672efc-ecab-49e5-b8b4-145c2c2c4790" name="Default" comment="" />
+    <ignored path="php-poo.iws" />
+    <ignored path=".idea/workspace.xml" />
+    <ignored path=".idea/dataSources.local.xml" />
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="TRACKING_ENABLED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ChangesViewManager" flattened_view="true" show_ignored="false" />
+  <component name="CreatePatchCommitExecutor">
+    <option name="PATCH_PATH" value="" />
+  </component>
+  <component name="ExecutionTargetManager" SELECTED_TARGET="default_target" />
+  <component name="FavoritesManager">
+    <favorites_list name="php-poo" />
+  </component>
+  <component name="FileEditorManager">
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
+      <file leaf-file-name="Db.php" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/demo/Db.php">
+          <provider selected="true" editor-type-id="text-editor">
+            <state vertical-scroll-proportion="-3.125">
+              <caret line="5" column="0" selection-start-line="5" selection-start-column="0" selection-end-line="5" selection-end-column="0" />
+              <folding>
+                <element signature="e#50#75#0#PHP" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="application.config.php" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/config/application.config.php">
+          <provider selected="true" editor-type-id="text-editor">
+            <state vertical-scroll-proportion="0.8">
+              <caret line="36" column="0" selection-start-line="36" selection-start-column="0" selection-end-line="36" selection-end-column="0" />
+              <folding>
+                <element signature="e#7#34#0#PHP" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="LecturerController.php" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/Controller/LecturerController.php">
+          <provider selected="true" editor-type-id="text-editor">
+            <state vertical-scroll-proportion="-3.75">
+              <caret line="6" column="8" selection-start-line="6" selection-start-column="8" selection-end-line="6" selection-end-column="8" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="IndexController.php" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/Controller/IndexController.php">
+          <provider selected="true" editor-type-id="text-editor">
+            <state vertical-scroll-proportion="-6.875">
+              <caret line="11" column="1" selection-start-line="11" selection-start-column="1" selection-end-line="11" selection-end-column="1" />
+              <folding>
+                <element signature="e#68#93#0#PHP" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="index.phtml" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/views/index.phtml">
+          <provider selected="true" editor-type-id="text-editor">
+            <state vertical-scroll-proportion="-8.75">
+              <caret line="14" column="0" selection-start-line="14" selection-start-column="0" selection-end-line="14" selection-end-column="0" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="LecturerCollection.php" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/LecturerCollection.php">
+          <provider selected="true" editor-type-id="text-editor">
+            <state vertical-scroll-proportion="-3.75">
+              <caret line="6" column="6" selection-start-line="6" selection-start-column="6" selection-end-line="6" selection-end-column="6" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="Lecturer.php" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/Entity/Lecturer.php">
+          <provider selected="true" editor-type-id="text-editor">
+            <state vertical-scroll-proportion="-3.75">
+              <caret line="6" column="6" selection-start-line="6" selection-start-column="6" selection-end-line="6" selection-end-column="6" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="LecturerRepository.php" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/Repository/LecturerRepository.php">
+          <provider selected="true" editor-type-id="text-editor">
+            <state vertical-scroll-proportion="-18.125">
+              <caret line="34" column="1" selection-start-line="34" selection-start-column="1" selection-end-line="34" selection-end-column="1" />
+              <folding>
+                <element signature="e#125#150#0#PHP" expanded="true" />
+                <marker date="1513164725000" expanded="true" signature="427:449" placeholder="SELECT * FRO... lecturer" />
+                <marker date="1513164725000" expanded="true" signature="427:471" placeholder="SELECT * FRO... lecturer" />
+                <marker date="1513164725000" expanded="true" signature="427:675" placeholder="SELECT * FRO... lecturer" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/lecturer.php" />
+        <option value="$PROJECT_DIR$/Application/Db.php" />
+        <option value="$PROJECT_DIR$/.htaccess" />
+        <option value="$PROJECT_DIR$/docker-compose.yml" />
+        <option value="$PROJECT_DIR$/Dockerfile" />
+        <option value="$PROJECT_DIR$/src/Lecture.php" />
+        <option value="$PROJECT_DIR$/db.php" />
+        <option value="$PROJECT_DIR$/views/lecturer.phtml" />
+        <option value="$PROJECT_DIR$/src/Lecturer.php" />
+        <option value="$PROJECT_DIR$/src/LecturerCollection.php" />
+        <option value="$PROJECT_DIR$/views/error500.phtml" />
+        <option value="$PROJECT_DIR$/views/error404.phtml" />
+        <option value="$PROJECT_DIR$/views/ErrorController.php" />
+        <option value="$PROJECT_DIR$/src/Exception/InvalidcontrollerException.php" />
+        <option value="$PROJECT_DIR$/src/Exception/InvalidControllerException.php" />
+        <option value="$PROJECT_DIR$/.gitignore" />
+        <option value="$PROJECT_DIR$/index.php" />
+        <option value="$PROJECT_DIR$/src/Router/ParseUriHelper.php" />
+        <option value="$PROJECT_DIR$/src/Db.php" />
+        <option value="$PROJECT_DIR$/src/Router/Router.php" />
+        <option value="$PROJECT_DIR$/composer.json" />
+        <option value="$PROJECT_DIR$/src/Controller/LecturerController.php" />
+        <option value="$PROJECT_DIR$/demo/Db.php" />
+        <option value="$PROJECT_DIR$/src/Entity/Lecturer.php" />
+        <option value="$PROJECT_DIR$/src/Repository/LecturerRepository.php" />
+        <option value="$PROJECT_DIR$/views/index.phtml" />
+        <option value="$PROJECT_DIR$/src/Controller/IndexController.php" />
+        <option value="$PROJECT_DIR$/config/application.config.php" />
+      </list>
+    </option>
+  </component>
+  <component name="JsBuildToolGruntFileManager" detection-done="true" />
+  <component name="JsBuildToolPackageJson" detection-done="true" />
+  <component name="JsGulpfileManager">
+    <detection-done>true</detection-done>
+  </component>
+  <component name="PhpServers">
+    <servers />
+  </component>
+  <component name="PhpWorkspaceProjectConfiguration" backward_compatibility_performed="true" />
+  <component name="ProjectFrameBounds">
+    <option name="width" value="1280" />
+    <option name="height" value="800" />
+  </component>
+  <component name="ProjectLevelVcsManager" settingsEditedManually="false">
+    <OptionsSetting value="true" id="Add" />
+    <OptionsSetting value="true" id="Remove" />
+    <OptionsSetting value="true" id="Checkout" />
+    <OptionsSetting value="true" id="Update" />
+    <OptionsSetting value="true" id="Status" />
+    <OptionsSetting value="true" id="Edit" />
+    <ConfirmationsSetting value="0" id="Add" />
+    <ConfirmationsSetting value="0" id="Remove" />
+  </component>
+  <component name="ProjectView">
+    <navigator currentView="ProjectPane" proportions="" version="1">
+      <flattenPackages />
+      <showMembers />
+      <showModules />
+      <showLibraryContents />
+      <hideEmptyPackages />
+      <abbreviatePackageNames />
+      <autoscrollToSource />
+      <autoscrollFromSource />
+      <sortByType />
+      <manualOrder />
+      <foldersAlwaysOnTop value="true" />
+    </navigator>
+    <panes>
+      <pane id="Scope" />
+      <pane id="Scratches" />
+      <pane id="ProjectPane">
+        <subPane>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="php-poo" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="php-poo" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="php-poo" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="php-poo" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="php-poo" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="src" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="php-poo" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="php-poo" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="src" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="Entity" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="php-poo" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="php-poo" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="src" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="Controller" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+        </subPane>
+      </pane>
+    </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="settings.editor.selected.configurable" value="preferences.sourceCode" />
+    <property name="settings.editor.splitter.proportion" value="0.2" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../ipssi-oop-php-2017" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="js-jscs-nodeInterpreter" value="/usr/local/bin/node" />
+    <property name="FullScreen" value="true" />
+  </component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/src/Entity" />
+      <recent name="$PROJECT_DIR$/demo" />
+      <recent name="$PROJECT_DIR$/src/Controller" />
+      <recent name="$PROJECT_DIR$/src" />
+    </key>
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/src/Controller" />
+    </key>
+  </component>
+  <component name="RunManager">
+    <configuration default="true" type="JavascriptDebugType" factoryName="JavaScript Debug">
+      <method />
+    </configuration>
+    <configuration default="true" type="PHPUnitRunConfigurationType" factoryName="PHPUnit">
+      <TestRunner />
+      <method />
+    </configuration>
+    <configuration default="true" type="PhpBehatConfigurationType" factoryName="Behat">
+      <BehatRunner />
+      <method />
+    </configuration>
+    <configuration default="true" type="PhpLocalRunConfigurationType" factoryName="PHP Console">
+      <method />
+    </configuration>
+    <configuration default="true" type="js.build_tools.gulp" factoryName="Gulp.js">
+      <node-options />
+      <gulpfile />
+      <tasks />
+      <arguments />
+      <envs />
+      <method />
+    </configuration>
+    <configuration default="true" type="js.build_tools.npm" factoryName="npm">
+      <command value="run-script" />
+      <scripts />
+      <envs />
+      <method />
+    </configuration>
+  </component>
+  <component name="ShelveChangesManager" show_recycled="false" />
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="dd672efc-ecab-49e5-b8b4-145c2c2c4790" name="Default" comment="" />
+      <created>1512980554750</created>
+      <option name="number" value="Default" />
+      <updated>1512980554750</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="0" y="0" width="1280" height="800" extended-state="0" />
+    <editor active="true" />
+    <layout>
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.1859375" sideWeight="0.5" order="1" side_tool="false" content_ui="combo" />
+      <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="9" side_tool="false" content_ui="tabs" />
+      <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.3287483" sideWeight="0.5" order="0" side_tool="true" content_ui="tabs" />
+      <window_info id="Database" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="0" side_tool="true" content_ui="tabs" />
+      <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="8" side_tool="false" content_ui="tabs" />
+      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
+      <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="3" side_tool="false" content_ui="combo" />
+      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
+      <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
+    </layout>
+  </component>
+  <component name="Vcs.Log.UiProperties">
+    <option name="RECENTLY_FILTERED_USER_GROUPS">
+      <collection />
+    </option>
+    <option name="RECENTLY_FILTERED_BRANCH_GROUPS">
+      <collection />
+    </option>
+  </component>
+  <component name="VcsContentAnnotationSettings">
+    <option name="myLimit" value="2678400000" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <option name="time" value="1" />
+    </breakpoint-manager>
+    <watches-manager />
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/demo/Db.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding>
+            <element signature="e#50#75#0#PHP" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/index.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="10" column="0" selection-start-line="10" selection-start-column="0" selection-end-line="10" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/demo/Db.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="16" column="0" selection-start-line="16" selection-start-column="0" selection-end-line="16" selection-end-column="0" />
+          <folding>
+            <element signature="e#50#75#0#PHP" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Controller/LecturerController.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/views/lecturer.phtml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="6" column="4" selection-start-line="6" selection-start-column="4" selection-end-line="6" selection-end-column="4" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/views/error500.phtml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="0" column="9" selection-start-line="0" selection-start-column="9" selection-end-line="0" selection-end-column="9" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/views/error404.phtml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="0" column="18" selection-start-line="0" selection-start-column="18" selection-end-line="0" selection-end-column="18" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/.htaccess">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="15" column="44" selection-start-line="15" selection-start-column="44" selection-end-line="15" selection-end-column="44" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Exception/InvalidControllerException.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.2">
+          <caret line="9" column="1" selection-start-line="9" selection-start-column="1" selection-end-line="9" selection-end-column="1" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/composer.lock">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/.gitignore">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="0" column="8" selection-start-line="0" selection-start-column="8" selection-end-line="0" selection-end-column="8" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/vendor/composer/autoload_real.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/vendor/autoload.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Router/ParseUriSlashNotationHelper.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Router/ParseUriDotNotationHelper.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.51111114">
+          <caret line="28" column="14" selection-start-line="28" selection-start-column="14" selection-end-line="28" selection-end-column="14" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Router/ParseUriHelper.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.17777778">
+          <caret line="8" column="0" selection-start-line="8" selection-start-column="0" selection-end-line="8" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Router/Router.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.26666668">
+          <caret line="42" column="9" selection-start-line="42" selection-start-column="9" selection-end-line="42" selection-end-column="9" />
+          <folding>
+            <element signature="e#64#107#0#PHP" expanded="false" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/views/lecturer.phtml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.13333334">
+          <caret line="6" column="4" selection-start-line="6" selection-start-column="4" selection-end-line="6" selection-end-column="4" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/views/error500.phtml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="-0.0">
+          <caret line="0" column="9" selection-start-line="0" selection-start-column="9" selection-end-line="0" selection-end-column="9" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/views/error404.phtml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="0" column="18" selection-start-line="0" selection-start-column="18" selection-end-line="0" selection-end-column="18" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Dockerfile">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="-5.5555553">
+          <caret line="10" column="16" selection-start-line="10" selection-start-column="16" selection-end-line="10" selection-end-column="16" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/adminer.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding>
+            <marker date="1513084782000" expanded="true" signature="73220:73230" placeholder="{...}" />
+            <marker date="1513084782000" expanded="true" signature="213007:213019" placeholder="INSERT INTO ${table($R)}... " />
+            <marker date="1513084782000" expanded="true" signature="217710:217820" placeholder="SELECT name,... sqlite_master" />
+            <marker date="1513084782000" expanded="true" signature="217935:218022" placeholder="SELECT name sqlite_master" />
+            <marker date="1513084782000" expanded="true" signature="218134:218155" placeholder="SELECT COUNT... ${idf_escape($K[&quot;Name&quot;])}" />
+            <marker date="1513084782000" expanded="true" signature="218218:218247" placeholder="SELECT * FRO... sqlite_sequence" />
+            <marker date="1513084782000" expanded="true" signature="219215:219277" placeholder="SELECT sql F... " />
+            <marker date="1513084782000" expanded="true" signature="219613:219675" placeholder="SELECT sql F... " />
+            <marker date="1513084782000" expanded="true" signature="220221:220293" placeholder="SELECT name,... " />
+            <marker date="1513084782000" expanded="true" signature="221275:221318" placeholder="SELECT sql F... " />
+            <marker date="1513084782000" expanded="true" signature="221969:221993" placeholder="CREATE TABLE... adminer" />
+            <marker date="1513084782000" expanded="true" signature="222007:222025" placeholder="DROP TABLE a... " />
+            <marker date="1513084782000" expanded="true" signature="222723:222749" placeholder="ALTER TABLE ${table($R)}... " />
+            <marker date="1513084782000" expanded="true" signature="222789:222825" placeholder="ALTER TABLE ${table($R)}... " />
+            <marker date="1513084782000" expanded="true" signature="222922:222972" placeholder="UPDATE sqlit... " />
+            <marker date="1513084782000" expanded="true" signature="223892:223966" placeholder="CREATE TABLE... ${table($R!=&quot;&quot;?&quot;adminer_$C&quot;:$C)}" />
+            <marker date="1513084782000" expanded="true" signature="224011:224141" placeholder="INSERT INTO ${table(&quot;adminer_$C&quot;)}... " />
+            <marker date="1513084782000" expanded="true" signature="224071:224141" placeholder="SELECT ${imp... ${table($R)}" />
+            <marker date="1513084782000" expanded="true" signature="224339:224350" placeholder="DROP TABLE $... " />
+            <marker date="1513084782000" expanded="true" signature="224385:224431" placeholder="ALTER TABLE ${table(&quot;adminer_$C&quot;)}... " />
+            <marker date="1513084782000" expanded="true" signature="225553:225617" placeholder="SELECT sql F... " />
+            <marker date="1513084782000" expanded="true" signature="225887:225953" placeholder="SELECT * FRO... sqlite_master" />
+            <marker date="1513084782000" expanded="true" signature="226802:226875" placeholder="SELECT sql F... " />
+            <marker date="1513084782000" expanded="true" signature="227076:227088" placeholder="DELETE FROM " />
+            <marker date="1513084782000" expanded="true" signature="227177:227255" placeholder="SELECT sql |... " />
+            <marker date="1513084782000" expanded="true" signature="231891:231981" placeholder="INSERT INTO ${table($R)}... " />
+            <marker date="1513084782000" expanded="true" signature="232510:232607" placeholder="SELECT datna... pg_database" />
+            <marker date="1513084782000" expanded="true" signature="232956:233054" placeholder="SELECT table... tables" />
+            <marker date="1513084782000" expanded="true" signature="233340:233838" placeholder="SELECT c.rel... pg_class" />
+            <marker date="1513084782000" expanded="true" signature="234207:234657" placeholder="SELECT a.att... " />
+            <marker date="1513084782000" expanded="true" signature="235333:235457" placeholder="SELECT oid F... pg_class" />
+            <marker date="1513084782000" expanded="true" signature="235380:235441" placeholder="SELECT oid F... pg_namespace" />
+            <marker date="1513084782000" expanded="true" signature="235483:235559" placeholder="SELECT attnu... pg_attribute" />
+            <marker date="1513084782000" expanded="true" signature="235583:235776" placeholder="SELECT relna... pg_index" />
+            <marker date="1513084782000" expanded="true" signature="236219:236552" placeholder="SELECT conna... " />
+            <marker date="1513084782000" expanded="true" signature="238297:238336" placeholder="ALTER TABLE ${table($R)}... " />
+            <marker date="1513084782000" expanded="true" signature="238645:238699" placeholder="CREATE TABLE... ${table($C)}" />
+            <marker date="1513084782000" expanded="true" signature="238731:238758" placeholder="ALTER TABLE ${table($R)}... " />
+            <marker date="1513084782000" expanded="true" signature="238804:238840" placeholder="ALTER TABLE ${table($R)}... " />
+            <marker date="1513084782000" expanded="true" signature="239464:239476" placeholder="ALTER TABLE ${table($R)}... " />
+            <marker date="1513084782000" expanded="true" signature="240269:240724" placeholder="SELECT t.tri... triggers" />
+            <marker date="1513084782000" expanded="true" signature="240335:240497" placeholder="SELECT STRIN... triggers" />
+            <marker date="1513084782000" expanded="true" signature="240802:240871" placeholder="SELECT * FRO... triggers" />
+            <marker date="1513084782000" expanded="true" signature="241177:241445" placeholder="SELECT p.pro... pg_namespace" />
+            <marker date="1513084782000" expanded="true" signature="241495:241538" placeholder="SELECT langn... pg_language" />
+            <marker date="1513084782000" expanded="true" signature="241859:242016" placeholder="SELECT typna... pg_type" />
+            <marker date="1513084782000" expanded="true" signature="241909:241970" placeholder="SELECT oid F... pg_namespace" />
+            <marker date="1513084782000" expanded="true" signature="242056:242105" placeholder="SELECT nspna... pg_namespace" />
+            <marker date="1513084782000" expanded="true" signature="242571:242642" placeholder="CREATE TABLE... ${idf_escape($P['Name'])}" />
+            <marker date="1513084782000" expanded="true" signature="242908:242922" placeholder="SELECT * FRO... ${$Eg}" />
+            <marker date="1513084782000" expanded="true" signature="244615:244655" placeholder="SELECT * FRO... pg_stat_activity" />
+            <marker date="1513084782000" expanded="true" signature="248835:248879" placeholder="SELECT table... user_tablespaces" />
+            <marker date="1513084782000" expanded="true" signature="249201:249279" placeholder="SELECT value... nls_database_parameters" />
+            <marker date="1513084782000" expanded="true" signature="249368:249389" placeholder="SELECT USER DUAL" />
+            <marker date="1513084782000" expanded="true" signature="249437:249504" placeholder="SELECT table... all_tables" />
+            <marker date="1513084782000" expanded="true" signature="249437:249571" placeholder="SELECT table... " />
+            <marker date="1513084782000" expanded="true" signature="249520:249560" placeholder="SELECT view_... user_views" />
+            <marker date="1513084782000" expanded="true" signature="249685:249825" placeholder="SELECT table... all_tables" />
+            <marker date="1513084782000" expanded="true" signature="249685:249974" placeholder="SELECT table... " />
+            <marker date="1513084782000" expanded="true" signature="249877:249923" placeholder="SELECT view_... user_views" />
+            <marker date="1513084782000" expanded="true" signature="250165:250242" placeholder="SELECT * FRO... all_tab_columns" />
+            <marker date="1513084782000" expanded="true" signature="250656:250900" placeholder="SELECT uic.*... user_ind_columns" />
+            <marker date="1513084782000" expanded="true" signature="251262:251317" placeholder="SELECT text user_views" />
+            <marker date="1513084782000" expanded="true" signature="251549:251573" placeholder="SELECT * FRO... plan_table" />
+            <marker date="1513084782000" expanded="true" signature="251753:251818" placeholder="ALTER TABLE ${table($R)}... " />
+            <marker date="1513084782000" expanded="true" signature="251965:252019" placeholder="CREATE TABLE... ${table($C)}" />
+            <marker date="1513084782000" expanded="true" signature="252043:252070" placeholder="ALTER TABLE ${table($R)}... " />
+            <marker date="1513084782000" expanded="true" signature="252108:252162" placeholder="ALTER TABLE ${table($R)}... " />
+            <marker date="1513084782000" expanded="true" signature="252185:252221" placeholder="ALTER TABLE ${table($R)}... " />
+            <marker date="1513084782000" expanded="true" signature="252277:252714" placeholder="SELECT c_lis... ALL_CONSTRAINTS" />
+            <marker date="1513084782000" expanded="true" signature="253207:253346" placeholder="SELECT DISTI... dba_segments" />
+            <marker date="1513084782000" expanded="true" signature="253263:253345" placeholder="SELECT usern... dba_users" />
+            <marker date="1513084782000" expanded="true" signature="253399:253454" placeholder="SELECT sys_c... dual" />
+            <marker date="1513084782000" expanded="true" signature="253611:253654" placeholder="SELECT name,... v$parameter" />
+            <marker date="1513084782000" expanded="true" signature="253699:254080" placeholder="SELECT sess.... v$session" />
+            <marker date="1513084782000" expanded="true" signature="254121:254145" placeholder="SELECT * FRO... v$instance" />
+            <marker date="1513084782000" expanded="true" signature="260360:260446" placeholder="SELECT name databases" />
+            <marker date="1513084782000" expanded="true" signature="260642:260697" placeholder="SELECT colla... databases" />
+            <marker date="1513084782000" expanded="true" signature="260859:260993" placeholder="SELECT name,... all_objects" />
+            <marker date="1513084782000" expanded="true" signature="261097:261143" placeholder="SELECT COUNT... TABLES" />
+            <marker date="1513084782000" expanded="true" signature="261215:261354" placeholder="SELECT name all_objects" />
+            <marker date="1513084782000" expanded="true" signature="261590:261939" placeholder="SELECT c.*, all_columns" />
+            <marker date="1513084782000" expanded="true" signature="262443:262768" placeholder="SELECT i.nam... indexes" />
+            <marker date="1513084782000" expanded="true" signature="263160:263265" placeholder="SELECT VIEW_... VIEWS" />
+            <marker date="1513084782000" expanded="true" signature="263328:263364" placeholder="SELECT name fn_helpcollations" />
+            <marker date="1513084782000" expanded="true" signature="264642:264706" placeholder="CREATE TABLE... ${table($C)}" />
+            <marker date="1513084782000" expanded="true" signature="264822:264853" placeholder="ALTER TABLE ${idf_escape($C)}... " />
+            <marker date="1513084782000" expanded="true" signature="265218:265259" placeholder="ALTER TABLE ${table($R)}... " />
+            <marker date="1513084782000" expanded="true" signature="265376:265407" placeholder="ALTER TABLE ${table($R)}... " />
+            <marker date="1513084782000" expanded="true" signature="266087:266098" placeholder="DROP TABLE $... " />
+            <marker date="1513084782000" expanded="true" signature="266317:266652" placeholder="SELECT s.nam... " />
+            <marker date="1513084782000" expanded="true" signature="266914:267254" placeholder="SELECT sys1.... " />
+            <marker date="1513084782000" expanded="true" signature="267629:267657" placeholder="SELECT name schemas" />
+            <marker date="1513084782000" expanded="true" signature="271318:271387" placeholder="SELECT RDB$R... rdb$relations" />
+            <marker date="1513084782000" expanded="true" signature="271906:273026" placeholder="SELECT r.RDB... RDB$RELATION_FIELDS" />
+            <marker date="1513084782000" expanded="true" signature="276384:276407" placeholder="SELECT itemN... ${table($R)}" />
+            <marker date="1513084782000" expanded="true" signature="295436:295475" placeholder="INSERT INTO ${table($R)}... " />
+            <marker date="1513084782000" expanded="true" signature="295543:295598" placeholder="INSERT INTO ${table($R)}... " />
+            <marker date="1513084782000" expanded="true" signature="296600:296651" placeholder="SELECT SCHEM... SCHEMATA" />
+            <marker date="1513084782000" expanded="true" signature="297439:297551" placeholder="SELECT TABLE... TABLES" />
+            <marker date="1513084782000" expanded="true" signature="297790:297923" placeholder="SELECT TABLE... TABLES" />
+            <marker date="1513084782000" expanded="true" signature="302155:302209" placeholder="CREATE TABLE... ${table($C)}" />
+            <marker date="1513084782000" expanded="true" signature="302300:302327" placeholder="ALTER TABLE ${table($R)}... " />
+            <marker date="1513084782000" expanded="true" signature="302591:302603" placeholder="ALTER TABLE ${table($R)}... " />
+            <marker date="1513084782000" expanded="true" signature="302838:302849" placeholder="DROP TABLE $... " />
+            <marker date="1513084782000" expanded="true" signature="303282:303303" placeholder="CREATE TABLE... ${$C}" />
+            <marker date="1513084782000" expanded="true" signature="303327:303356" placeholder="INSERT INTO ${$C}... " />
+            <marker date="1513084782000" expanded="true" signature="303342:303356" placeholder="SELECT * FRO... ${table($R)}" />
+            <marker date="1513084782000" expanded="true" signature="305294:305400" placeholder="SELECT ROUTI... ROUTINES" />
+            <marker date="1513084782000" expanded="true" signature="309927:309936" placeholder="..." />
+            <marker date="1513084782000" expanded="true" signature="310283:310337" placeholder="..." />
+            <marker date="1513084782000" expanded="true" signature="310465:310521" placeholder="..." />
+            <marker date="1513084782000" expanded="true" signature="321022:321071" placeholder="CREATE TABLE... ${table($R)}" />
+            <marker date="1513084782000" expanded="true" signature="321899:321979" placeholder="INSERT INTO ${table($R)}... " />
+            <marker date="1513084782000" expanded="true" signature="325297:325311" placeholder="..." />
+            <marker date="1513084782000" expanded="true" signature="330170:330232" placeholder="..." />
+            <marker date="1513084782000" expanded="true" signature="330189:330232" placeholder="..." />
+            <marker date="1513084782000" expanded="true" signature="341053:341067" placeholder="..." />
+            <marker date="1513084782000" expanded="true" signature="355405:355422" placeholder="..." />
+            <marker date="1513084782000" expanded="true" signature="360227:360252" placeholder="..." />
+            <marker date="1513084782000" expanded="true" signature="361603:361620" placeholder="..." />
+            <marker date="1513084782000" expanded="true" signature="361763:361781" placeholder="..." />
+            <marker date="1513084782000" expanded="true" signature="362553:362570" placeholder="..." />
+            <marker date="1513084782000" expanded="true" signature="363349:363446" placeholder="SELECT User,... ${(DB==&quot;&quot;?&quot;user&quot;:&quot;db WHERE &quot;.q(DB).&quot; LIKE Db&quot;)}" />
+            <marker date="1513084782000" expanded="true" signature="375940:375945" placeholder="..." />
+            <marker date="1513084782000" expanded="true" signature="377504:377533" placeholder="..." />
+            <marker date="1513084782000" expanded="true" signature="380490:380562" placeholder="..." />
+            <marker date="1513084782000" expanded="true" signature="380529:380562" placeholder="..." />
+            <marker date="1513084782000" expanded="true" signature="380537:380562" placeholder="..." />
+            <marker date="1513084782000" expanded="true" signature="380541:380562" placeholder="..." />
+            <marker date="1513084782000" expanded="true" signature="382243:382272" placeholder="..." />
+            <marker date="1513084782000" expanded="true" signature="383573:383578" placeholder="..." />
+            <marker date="1513084782000" expanded="true" signature="384996:385036" placeholder="..." />
+            <marker date="1513084782000" expanded="true" signature="386841:386870" placeholder="..." />
+            <marker date="1513084782000" expanded="true" signature="387512:387524" placeholder="ALTER TABLE ${table($a)}... " />
+            <marker date="1513084782000" expanded="true" signature="388240:388245" placeholder="..." />
+            <marker date="1513084782000" expanded="true" signature="388547:388581" placeholder="..." />
+            <marker date="1513084782000" expanded="true" signature="389287:389316" placeholder="..." />
+            <marker date="1513084782000" expanded="true" signature="390455:390459" placeholder="..." />
+            <marker date="1513084782000" expanded="true" signature="390697:390726" placeholder="..." />
+            <marker date="1513084782000" expanded="true" signature="392100:392188" placeholder="SELECT * FRO... EVENTS" />
+            <marker date="1513084782000" expanded="true" signature="392247:392280" placeholder="..." />
+            <marker date="1513084782000" expanded="true" signature="392271:392280" placeholder="..." />
+            <marker date="1513084782000" expanded="true" signature="393105:393134" placeholder="..." />
+            <marker date="1513084782000" expanded="true" signature="394075:394079" placeholder="..." />
+            <marker date="1513084782000" expanded="true" signature="394524:394553" placeholder="..." />
+            <marker date="1513084782000" expanded="true" signature="395243:395273" placeholder="..." />
+            <marker date="1513084782000" expanded="true" signature="395885:395890" placeholder="..." />
+            <marker date="1513084782000" expanded="true" signature="396966:396999" placeholder="..." />
+            <marker date="1513084782000" expanded="true" signature="396990:396999" placeholder="..." />
+            <marker date="1513084782000" expanded="true" signature="397698:397727" placeholder="..." />
+            <marker date="1513084782000" expanded="true" signature="400855:400888" placeholder="..." />
+            <marker date="1513084782000" expanded="true" signature="400879:400888" placeholder="..." />
+            <marker date="1513084782000" expanded="true" signature="402659:402688" placeholder="..." />
+            <marker date="1513084782000" expanded="true" signature="403144:403261" placeholder="..." />
+            <marker date="1513084782000" expanded="true" signature="409945:409959" placeholder="..." />
+            <marker date="1513084782000" expanded="true" signature="416598:416627" placeholder="..." />
+            <marker date="1513084782000" expanded="true" signature="416782:416823" placeholder="..." />
+            <marker date="1513084782000" expanded="true" signature="425773:425891" placeholder="SELECT seque... sequences" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/index.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="10" column="0" selection-start-line="10" selection-start-column="0" selection-end-line="10" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/composer.json">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.42222223">
+          <caret line="19" column="0" selection-start-line="19" selection-start-column="0" selection-end-line="19" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Controller/ErrorController.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.5555556">
+          <caret line="25" column="4" selection-start-line="25" selection-start-column="4" selection-end-line="25" selection-end-column="4" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Lecture.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="-6.25">
+          <caret line="10" column="0" selection-start-line="10" selection-start-column="0" selection-end-line="10" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Application.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.6666667">
+          <caret line="30" column="0" selection-start-line="30" selection-start-column="0" selection-end-line="30" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/docker-compose.yml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.40772533">
+          <caret line="19" column="20" selection-start-line="19" selection-start-column="11" selection-end-line="19" selection-end-column="20" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/LecturerCollection.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="-3.75">
+          <caret line="6" column="6" selection-start-line="6" selection-start-column="6" selection-end-line="6" selection-end-column="6" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/views/index.phtml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="-8.75">
+          <caret line="14" column="0" selection-start-line="14" selection-start-column="0" selection-end-line="14" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Dispatch IndexController.png">
+      <provider selected="true" editor-type-id="images">
+        <state />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Repository/LecturerRepository.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="-18.125">
+          <caret line="34" column="1" selection-start-line="34" selection-start-column="1" selection-end-line="34" selection-end-column="1" />
+          <folding>
+            <element signature="e#125#150#0#PHP" expanded="true" />
+            <marker date="1513164725000" expanded="true" signature="427:449" placeholder="SELECT * FRO... lecturer" />
+            <marker date="1513164725000" expanded="true" signature="427:471" placeholder="SELECT * FRO... lecturer" />
+            <marker date="1513164725000" expanded="true" signature="427:675" placeholder="SELECT * FRO... lecturer" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Controller/IndexController.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="-6.875">
+          <caret line="11" column="1" selection-start-line="11" selection-start-column="1" selection-end-line="11" selection-end-column="1" />
+          <folding>
+            <element signature="e#68#93#0#PHP" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Entity/Lecturer.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="-3.75">
+          <caret line="6" column="6" selection-start-line="6" selection-start-column="6" selection-end-line="6" selection-end-column="6" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Controller/LecturerController.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="-3.75">
+          <caret line="6" column="8" selection-start-line="6" selection-start-column="8" selection-end-line="6" selection-end-column="8" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/demo/Db.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="-3.125">
+          <caret line="5" column="0" selection-start-line="5" selection-start-column="0" selection-end-line="5" selection-end-column="0" />
+          <folding>
+            <element signature="e#50#75#0#PHP" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/config/application.config.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.8">
+          <caret line="36" column="0" selection-start-line="36" selection-start-column="0" selection-end-line="36" selection-end-column="0" />
+          <folding>
+            <element signature="e#7#34#0#PHP" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+  </component>
+</project>
